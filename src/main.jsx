@@ -13,5 +13,6 @@ function App() {
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <CounterApp value={4} />
+    {/* <FirstApp title='Pruebas unitarias y de integración' /> */}
   </React.StrictMode>
 )
